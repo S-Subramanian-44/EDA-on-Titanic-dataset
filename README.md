@@ -26,4 +26,7 @@ Excited to share the successful completion of my second task as a Data Science I
 Thrilled to contribute to the data-driven journey at Prodigy Infotech! Eager to tackle more complex challenges and continue unraveling insights that drive informed decisions. 💡🚢 #DataScience #EDA #ExploratoryDataAnalysis #TitanicDataset #ProdigyInfotech
 
 ### Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/subramanian-s-ab94302a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanian-s-ab94302a1/" height="30" width="40" /></a>
+</p>
 
